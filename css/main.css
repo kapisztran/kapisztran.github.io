@@ -731,6 +731,193 @@ pre {
     border-left: 4px solid #216639;
     color: #100f09; }
 
+#belso-szeles {
+  padding: 0;
+  margin: 0;
+  border: none;
+  height: 100%; }
+  #belso-szeles #goe-ec-video-details-container {
+    display: none; }
+  #belso-szeles body {
+    padding: 0;
+    margin: 0;
+    border: none;
+    height: 100%;
+    background: #12381f;
+    color: #e6bb09; }
+  #belso-szeles a {
+    outline: 0; }
+  #belso-szeles #r-1 {
+    height: 30px; }
+  #belso-szeles #r-2 {
+    height: 20px; }
+  #belso-szeles #r-4 {
+    height: 100%; }
+  #belso-szeles #c-1-1 {
+    background: url(/images/f21.gif);
+    background-repeat: no-repeat;
+    width: 19px; }
+  #belso-szeles #c-1-2 {
+    background: url(/images/f22.gif);
+    background-repeat: no-repeat;
+    width: 1px; }
+  #belso-szeles #c-1-3 {
+    background: url(/images/f23.gif);
+    background-repeat: no-repeat;
+    width: 20px; }
+  #belso-szeles #c-1-4 {
+    background: url(/images/f24.gif);
+    background-repeat: no-repeat;
+    width: 1px; }
+  #belso-szeles #c-1-5 {
+    background: #154422 url(/images/f25.gif);
+    background-repeat: no-repeat;
+    width: 234px; }
+  #belso-szeles #c-1-6 {
+    border-bottom: 1px solid #50695a;
+    padding-right: 1em;
+    text-align: right; }
+  #belso-szeles #c-2-6 {
+    vertical-align: middle;
+    text-align: right;
+    font-size: 75%;
+    padding-right: 1em;
+    background: #154422; }
+    #belso-szeles #c-2-6 a {
+      text-decoration: none;
+      color: #e6bb09;
+      font-style: italic; }
+    #belso-szeles #c-2-6 b {
+      font-weight: bold; }
+  #belso-szeles #c-4-5 {
+    border-top: 1px solid #2a2a25;
+    background: #e4e1cd url(/images/f2a2_ht.gif);
+    background-repeat: no-repeat;
+    background-position: 0 -50px;
+    vertical-align: top;
+    padding-top: 2em;
+    padding-left: 1em; }
+    #belso-szeles #c-4-5 .page-link, #belso-szeles #c-4-5 .page-link-current {
+      color: #383730;
+      opacity: 0.67;
+      text-decoration: none;
+      display: block; }
+    #belso-szeles #c-4-5 .page-link-current {
+      color: #12381f;
+      opacity: 1; }
+  #belso-szeles #c-4-6 {
+    /* This is the main content */
+    border-top: 1px solid #2a2a25;
+    background: #e4e1cd;
+    color: #100f09;
+    vertical-align: top;
+    padding-top: 2em;
+    padding-right: 1em;
+    padding-left: 1em;
+    width: 100%;
+    border-left: 1px dotted #73847b;
+    border-right: 1px dotted #73847b; }
+  #belso-szeles #c-4-7 {
+    border-top: 1px solid #2a2a25;
+    background: #e4e1cd;
+    vertical-align: top;
+    text-align: right;
+    padding-top: 1em;
+    padding-right: 1em;
+    color: #100f09; }
+  #belso-szeles #c-4-7 {
+    padding-left: 1em; }
+  #belso-szeles #c-5-2 {
+    background: #73847b; }
+  #belso-szeles #c-5-3 {
+    background: #154422; }
+  #belso-szeles #c-5-4 {
+    background: #24221d; }
+  #belso-szeles #c-5-5 {
+    padding-left: 1em;
+    padding-bottom: 2em;
+    background: #e4e1cd;
+    vertical-align: bottom; }
+  #belso-szeles td {
+    box-sizing: border-box;
+    /*     border: 1px solid yellow; */
+    padding: 0px; }
+  #belso-szeles .page-link {
+    color: #e6bb09;
+    text-decoration: none;
+    display: block; }
+  #belso-szeles a:active {
+    color: #993300; }
+  #belso-szeles .content-left, #belso-szeles .content-right {
+    border: 0px solid red;
+    width: 300px;
+    height: 200px;
+    margin: 1em; }
+  #belso-szeles .kek-kereszt {
+    background: #154422; }
+  #belso-szeles .jobb-hatar {
+    border-right: 1px solid #50695a; }
+  #belso-szeles .bal-hatar {
+    border-left: 1px solid #50695a; }
+  #belso-szeles .also-hatar {
+    border-bottom: 1px solid #50695a; }
+  #belso-szeles .felso-hatar {
+    border-top: 1px solid #50695a; }
+  #belso-szeles #translations {
+    /* border: 1px solid green; */
+    height: 100%;
+    font-size: 75%; }
+  #belso-szeles .bookdetails span.price {
+    color: #216639;
+    font-size: 200%; }
+  #belso-szeles .red {
+    color: maroon; }
+  #belso-szeles .center {
+    width: 100%;
+    text-align: center; }
+  #belso-szeles .right {
+    width: 100%;
+    text-align: right; }
+  #belso-szeles .book-page img.soon {
+    width: 40%; }
+  #belso-szeles .category-page img.category-top {
+    width: 20%;
+    padding-bottom: 1em; }
+  #belso-szeles #booklist .book {
+    border: 1px solid gray; }
+  #belso-szeles #booklist a {
+    color: #100f09; }
+  #belso-szeles #booklist img.thumb {
+    max-width: 128px; }
+  #belso-szeles #booklist img.soon {
+    width: 100%; }
+  #belso-szeles #booklist table {
+    width: 100%; }
+  #belso-szeles #booklist tr:nth-child(even) {
+    background: #d2cdac; }
+  #belso-szeles #booklist tr:nth-child(odd) {
+    background: #dbd7bc; }
+  #belso-szeles #booklist td.info {
+    width: 70%;
+    padding-left: 0.5em;
+    padding-right: 0.5em; }
+  #belso-szeles #booklist td.long-info {
+    width: 100%;
+    padding-left: 0.5em;
+    padding-right: 0.5em; }
+  #belso-szeles #booklist td.getit {
+    width: 25%;
+    padding-right: 0.5em;
+    padding-left: 0.5em; }
+    #belso-szeles #booklist td.getit div {
+      color: #216639;
+      font-size: 125%;
+      margin-bottom: 0.5em; }
+  #belso-szeles blockquote {
+    font-style: normal;
+    border-left: 4px solid #216639;
+    color: #100f09; }
+
 strong {
   font-weight: bold;
   /*    font-style: italic; */ }
